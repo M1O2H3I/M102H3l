@@ -1,5 +1,3 @@
-
-
 <h1 align="center">Hi there, I'm Mohit Kumar 👋</h1>
 
 <p align="center">
@@ -13,7 +11,7 @@
 - 🔭 I’m currently working on **Java projects and DSA**
 - 🌱 I’m currently learning **System Design**
 - 💬 Ask me about **Java, Data Structures, and Image Processing**
-- 📫 How to reach me: [mohit.email@example.com](mailto:mohit.email@example.com)
+- 📫 How to reach me: [mohit.email@example.com](mailto:mohitrajput27780@gmail.com)
 - ⚡ Fun fact: I love turning caffeine into code!
 
 ---
