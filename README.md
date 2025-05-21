@@ -30,5 +30,5 @@
 ---
 
 ## 🌐 Connect with me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](www.linkedin.com/in/mohit-kumar-7636a92a8)](https://linkedin.com/in/yourprofile)  
 [![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
